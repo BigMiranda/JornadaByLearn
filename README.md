@@ -1,5 +1,5 @@
 # JornadaByLearn
-Fiz um programa para registrar alunos e suas notas (temporariamente), e ele também calcula a média
+Como projeto introdutório a python e github, fiz um programa para registrar alunos e suas notas (temporariamente), e ele também calcula a média
 
 A primeira etapa solicita o nome e as notas de um ou mais alunos
 
